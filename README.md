@@ -191,7 +191,7 @@ For each of the problems, they have been produced:
 
 |Problem|Plots|3D plot|
 |:--:|:--:|:--:|
-| 1 |  ![](./results/problems/problem1/x0.png =20x20)  |    |
+| 1 |  ![](./results/problems/problem1/x0.png)  |    |
 | 2 |  ![](./results/problems/problem2/x0.png) ![](./results/problems/problem2/x1.png)  ![](./results/problems/problem2/x2.png)  |     |
 | 3 |  ![](./results/problems/problem3/x0.png)  ![](./results/problems/problem3/x1.png)  ![](./results/problems/problem3/x2.png)  |    |
 | 4 |  ![](./results/problems/problem4/x0.png)  ![](./results/problems/problem4/x1.png)  |  ![](./results/problems/problem4/3d.png)    |
